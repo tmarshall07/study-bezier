@@ -12,6 +12,8 @@ git clone https://github.com/tmarshall07/study-bezier.git
 3. Start
 `yarn start` or `npm start`
 
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

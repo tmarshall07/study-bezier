@@ -1,3 +1,17 @@
+# Beziér curves
+This is just a basic project demonstrating bezier curves with `path` elements in `svg`.
+
+1. Clone:
+```
+git clone https://github.com/tmarshall07/study-bezier.git
+```
+
+2. Install dependencies
+`yarn` or `npm i`
+
+3. Start
+`yarn start` or `npm start`
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
